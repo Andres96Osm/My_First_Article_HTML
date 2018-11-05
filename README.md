@@ -3,7 +3,6 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Prueba de html marcelo</title>
     <link rel="stylesheet" href="C:\Users\Andres\Desktop\Tarea_Marcelo\Estilos\Style.css">
   </head>
   <body>
