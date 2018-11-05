@@ -1,0 +1,25 @@
+.Texto{
+  border: 8px solid #AEB1DB;
+  padding: 20px 40px 20px 40px;
+  margin: 20px 350px 20px 350px;
+}
+.titulo{
+  color: #8693A8;
+}
+.fecha{
+  color: #A8C4D4;
+  font-family: fantasy;
+}
+.inicial{
+  margin-left: 10px;
+  border-left: 5px solid #AEB1DB;
+  padding-left: 5px;
+}
+p{
+  color: black;
+  font-size: 12pt;
+  text-align: left;
+}
+#divi{
+  margin-top: 20px;
+}
